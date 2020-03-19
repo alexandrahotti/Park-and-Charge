@@ -1,5 +1,5 @@
 # Park&Charge
-A React Native prototype for a project aimed at sharing private electric vehicle charging stations in Stockholm.
+A React Native app for a project aimed at sharing private electric vehicle charging stations in Stockholm.
 
 ## Authors
 [Tomas Hermansson](https://github.com/therm8) ,
